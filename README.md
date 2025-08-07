@@ -2,7 +2,6 @@
 
 # Validador de Correos en Tiempo Real
 
-![Banner](assets/header.png)
 
 > **Proyecto Android – Kotlin (SDK 25)** que demuestra cómo validar en tiempo real la disponibilidad de un correo electrónico usando **Firebase Authentication** y **LiveData**. Ideal como práctica universitaria o como semilla para apps más grandes.
 
@@ -83,4 +82,5 @@ Usuario → EditText → ViewModel → Firebase → ViewModel → LiveData → U
 | Pantalla vacía                        | Correo válido                         |
 | ------------------------------------- | ------------------------------------- |
 | ![Empty](assets/screenshot_empty.png) | ![Valid](assets/screenshot_valid.png) |
+
 
